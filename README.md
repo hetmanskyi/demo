@@ -7,3 +7,5 @@ Hey, this edit were made in GitHub!
 Hey, this edit were made localy!
 
 This is new text for update-readme branch.
+
+Hey there, this is conflict raw
